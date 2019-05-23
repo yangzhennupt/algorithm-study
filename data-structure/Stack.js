@@ -1,7 +1,7 @@
 // LIFO  后入先出，参考一堆书堆在桌子上，最先放下的最后出来,实现方式是利用数组的栈方法，pop,push
 class Stack {
     constructor () {
-        this.items = []
+        this.items = [];
     }
     push (element) {
         this.items.push(element);
