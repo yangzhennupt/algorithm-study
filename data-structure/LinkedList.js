@@ -90,5 +90,4 @@ function LinkedList() {
     length--;
     return current.element;
   }
-  
 }
